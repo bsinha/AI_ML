@@ -1,2 +1,2 @@
-# AI_ML
-Repo for AI ML programs
+# Learning ML
+Repo for ML programs
